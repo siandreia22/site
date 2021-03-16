@@ -141,7 +141,6 @@
   .u-section-1 .u-text-2 {
     font-size: 2.95rem;
     margin-top: -239px;
-    margin-right: calc(((100% - 340px) / 2) + -70px);
     margin-left: 0;
   }
 }.u-section-2 {
@@ -1587,4 +1586,9 @@
     width: 340px;
     margin-bottom: 30px;
   }
+  @media (max-width: 340px) {
+    h1.u-custom-font.u-font-oswald.u-text.u-text-palette-3-base.u-text-2 {
+      font-size: 45px;
+    }
+  
 }
