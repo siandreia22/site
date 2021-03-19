@@ -32,6 +32,9 @@
   width: 904px;
   margin: -207px auto 60px;
 }
+div.u-align-center.u-container-style.u-custom-color-1.u-group.u-group-1.fix-margin{
+  margin: -413px auto 0;
+}
 
 @media (max-width: 1199px) {
 
@@ -101,6 +104,9 @@
     margin-left: 50px;
     margin-right: 50px;
   }
+  div.u-align-center.u-container-style.u-custom-color-1.u-group.u-group-1.fix-margin{
+    margin: -313px auto 0;
+  }
 }
 
 
@@ -158,6 +164,9 @@
     font-size: 2.95rem;
     margin-top: -239px;
     margin-left: 0;
+  }
+  div.u-align-center.u-container-style.u-custom-color-1.u-group.u-group-1.fix-margin{
+    margin: -113px auto 0;
   }
 }.u-section-2 {
   background-image: none;
